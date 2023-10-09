@@ -9,7 +9,6 @@ To initialize, clone this git repository with terminal into your **EMTPY** mods 
 
 For further updates, it is advised to only pull the git repo in folder that has the cloned repo: 
 ```git pull```
-#
 Nothing else needs to be done to ensure a compatiable modpack.
 #
 #### Notice for Windows Users:
