@@ -5,7 +5,7 @@ If you are installing mods to an instance that has already been imported, the ja
 Instead export over from mods zip and config zip found here: 
 https://drive.google.com/drive/folders/15WM0XKTzM5Q73aRj62aBBCUzkjpodqa4?usp=drive_link
 
-Make sure to export into each in their respective folder.
+Make sure to export into each into their respective folder.
 
 
 ## Onigafuchi Minecraft Modpack 
