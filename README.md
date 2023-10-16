@@ -1,5 +1,4 @@
 ## Onigafuchi Minecraft Modpack 
-This git repository is to ensure compatibility with installed mods on client with mods of the server.
 
 Server Version: 1.19.2
 
